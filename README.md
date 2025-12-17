@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reshma K</h1>
-<h3 align="center">I'm a passionate software developer who loves writing clean and optimized code. I focus on building scalable solutions and continuously improving my skills with new technologies.</h3>
+<h3 align="center">I'm a software developer who loves writing clean and optimized code. I focus on building scalable solutions and continuously improving my skills with new technologies.</h3>
 
-- 🌱 I’m currently learning **Node.js, Express.js, Javascript, Typescript, Python**
+- 🌱 I’m currently learning ** Python, FastAPI, Node.js, Express.js, Javascript, Typescript**
 - 🤝 I’m open to collaborating on **open-source projects**
 - 📫 How to reach me **reshma.kamal25@gmail.com**
 - 🌍 Connect with me on [LinkedIn](https://www.linkedin.com/in/reshma-k-519a8424a/)!
